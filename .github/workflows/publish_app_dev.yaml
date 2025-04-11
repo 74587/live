@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - 'dev'
+      - 'dev-fix#660'
 
 jobs:
   # 打包Android、iOS、Mac
