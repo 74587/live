@@ -5,6 +5,8 @@ flutter/ephemeral/
 *.user
 *.userosscache
 *.sln.docstates
+.vs/
+out/
 
 # Visual Studio build-related files.
 x64/
